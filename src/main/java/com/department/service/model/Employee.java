@@ -1,5 +1,5 @@
 // Employee.java (in DepartmentService)
-package com.example.departmentservice.model;
+package com.department.service.model;
 
 public class Employee {
     private Long id;
